@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1589E5BF-87AE-4151-865D-894081148D35</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1589E5BF-87AE-4151-865D-894081148D35.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LastTimePlayed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LastTimePlayed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project LastTimePlayed with scheme LastTimePlayed and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580886215.21163094</real>
+			<key>timeStoppedRecording</key>
+			<real>580886216.72070599</real>
+			<key>title</key>
+			<string>Building project LastTimePlayed with scheme LastTimePlayed and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1589E5BF-87AE-4151-865D-894081148D35</string>
+		</dict>
+		<key>FB031F0F-075A-4AAE-8F5D-56667BF8364C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB031F0F-075A-4AAE-8F5D-56667BF8364C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LastTimePlayed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LastTimePlayed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project LastTimePlayed with scheme LastTimePlayed and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580886509.20996594</real>
+			<key>timeStoppedRecording</key>
+			<real>580886510.48580396</real>
+			<key>title</key>
+			<string>Building project LastTimePlayed with scheme LastTimePlayed and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FB031F0F-075A-4AAE-8F5D-56667BF8364C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
